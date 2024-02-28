@@ -1,22 +1,26 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Research"
+    url: /research/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: /cv/
+
+#  - title: "Talks"
+#    url: /talks/    
+
+  - title: "Links"
+    url: /links/    
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+  - title: "Posts"
+    url: https://cosmic-hydrogen.notion.site/b8a9d9b3f24245fbaad3f197da7df43d?v=403a75d4a1344e7b8546d9b862c830a6 
+    
+    
+#  - title: "Guide"
+#    url: /markdown/
