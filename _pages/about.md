@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am B.K. Parida, an ardent and accomplished researcher with a comprehensive academic background spanning the domains of physics and artificial intelligence. My academic journey is underscored by a rigorous pursuit of knowledge, culminating in an M.Sc. degree in Physics with a specialization in astrophysics from the prestigious Pondicherry Central University, India. During my master’s program, I had the privilege of serving as a research intern at the Indian Institute of Astrophysics, an invaluable experience that significantly contributed to my research acumen.
+I am B.K. Parida, an ardent and accomplished researcher with a comprehensive academic background spanning the domains of physics and artificial intelligence. My academic journey is underscored by a rigorous pursuit of knowledge, culminating in an M.Sc. degree in Physics with a specialization in astrophysics from the prestigious Pondicherry Central University, India. During my master’s program, I had the privilege of serving as a research intern at the [Indian Institute of Astrophysics](https://www.iiap.res.in/), an invaluable experience that significantly contributed to my research acumen.
 
 Presently, I am deeply engrossed in the pursuit of a Doctor of Philosophy (Ph.D.) degree in Artificial Intelligence at Sun Moon University, South Korea. My scholarly trajectory has been distinguished by an interdisciplinary orientation, bridging the chasm between theoretical physics, computational physics, and astrophysics.
 
